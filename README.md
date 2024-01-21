@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 💻 &nbsp; Technophile<br>
 - 📙 &nbsp; Continous Learner<br>
-- 🎓 &nbsp; Studying Computer Science at Farook College , Calicut<br>
+- 🎓 &nbsp; Studying MCA at College of Engineering Chengannur , Alappuzha<br>
 - 🌱 &nbsp; Currently Learning  Web Devolpment <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
