@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **MCA Graduate** from Calicut, Kerala
+
 - 💻 **Self-taught Developer** with a passion for backend development
 - 🌐 **Full Stack Developer** with primary focus on server-side development
 - 📍 Based in **Calicut, Kerala, India**
