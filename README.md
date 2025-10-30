@@ -3,13 +3,12 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <span>💻 Linux/Ubuntu Enthusiast</span>
 </div>
 
 ## 👨‍💻 About Me
 
 
-- 💻 **Self-taught Developer** with a passion for backend development
+- 💻 **Self-taught Developer** with a passion for FullStack development
 - 🌐 **Full Stack Developer** with primary focus on server-side development
 - 📍 Based in **Calicut, Kerala, India**
 
@@ -30,6 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+[![Bootstrap](https://img.shields.io)](https://img.shields.io/badge/-Bootstrapdash-8A2BE2?style=flat&logo=css3&logoColor=white)
 
 ### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -43,7 +43,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
@@ -59,7 +58,6 @@
 - 🌱 **Learning:** Docker, Python, and Linux/Ubuntu system administration
 - 🔭 **Working on:** Personal projects to enhance my portfolio
 - 👯 **Looking to collaborate on:** Open source projects
-- 💬 **Ask me about:** Backend development, MERN stack, or anything tech-related, 
 - ⚡ **Fun fact:** I believe in mastering the core basics before exploring new technologies!
 
 ---
@@ -77,7 +75,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athulthomasatz/)
 [![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/athulthomas23)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thomasathul089@gmail.com)
+
 
 ---
 
